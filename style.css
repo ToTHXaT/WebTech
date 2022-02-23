@@ -1,0 +1,23 @@
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+body {
+    min-width: 512px;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.row {
+    border: 1px solid red;
+}
+
+.task-btn {
+}
