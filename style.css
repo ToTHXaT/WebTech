@@ -10,14 +10,3 @@ a:visited {
 body {
     min-width: 512px;
 }
-
-.container {
-    border: 1px solid black;
-}
-
-.row {
-    border: 1px solid red;
-}
-
-.task-btn {
-}
