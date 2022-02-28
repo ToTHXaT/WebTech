@@ -32,8 +32,8 @@
         <title> SVG </title>
       </head>
       <body>
+        <h4 id="author" title="GossJS">Айнур Рахманов</h4>
         <xsl:apply-templates/>
-        <h4 id="author" title="GossJS" class="col text-center">Айнур Рахманов</h4>
       </body>
     </html>
   </xsl:template>
