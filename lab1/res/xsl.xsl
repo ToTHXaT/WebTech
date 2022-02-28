@@ -65,6 +65,7 @@
         <math display="block">
           <xsl:apply-templates/>
         </math>
+        <h4 id="author" title="GossJS" class="col text-center">Айнур Рахманов</h4>
       </body>
       <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"/>
       <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"/>
